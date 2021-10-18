@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+/.gitignore
+/.idea
+/notebooks/.ipynb_checkpoints
+/notebooks/视觉检测（培训）.ipynb
+/notebooks/误差补偿（培训）.ipynb
