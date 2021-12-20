@@ -1,4 +1,4 @@
-<h1>Industrial-Big-Data-Competition</h1>
+<h1>Industrial-Algorithm-Competition</h1>
 全国工业大数据算法竞赛
 <h2>更新日志</h2>
 <table>
